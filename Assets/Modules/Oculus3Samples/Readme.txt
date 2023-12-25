@@ -1,0 +1,4 @@
+Meta Quest 3 Starter Samples including following SDK's and Features:
+1.Meta XR Core SDK contains many essential functionalities which Meta XR headsets provide, including the camera rig, controllers, hand tracking, composition layer, passthrough, spatial anchor, scene management, and much more.
+
+2.Interaction SDK adds interactions like ray, poke, locomotion, grab for controllers, hands, and controllers as hands. Each interaction is designed to be modular and work in both simple and complex VR applications. Interaction SDK also has features just for hands, including hand-specific interactions, pose and gesture detection, and debug visuals.
